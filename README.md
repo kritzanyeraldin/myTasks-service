@@ -1,6 +1,6 @@
-# Reto técnico de Softtek (servicio)
+# To-do-list (servicio)
 
-Este proyecto es un servicio web construido con **Node** y **Express** como parte de un reto técnico para **Softtek**.
+Este proyecto es un servicio web construido con **Node** y **Express**.
 
 ## Requisitos
 
@@ -20,11 +20,10 @@ Primero, debe clonar el repositorio y luego instalar las dependencias:
 
 ```sh
 # con https
-git clone https://github.com/kritzanyeraldin/softtek-challenge-service.git
+git clone https://github.com/kritzanyeraldin/myTasks-service.git
 # o con ssh
-git clone git@github.com:kritzanyeraldin/softtek-challenge-service.git
+git clone git@github.com:kritzanyeraldin/myTasks-service.git
 
-cd softtek-challenge-service
 pnpm install
 ```
 
